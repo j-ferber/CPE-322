@@ -5,6 +5,7 @@ The purpose of this lab is to learn about Paho and MQTT
 ## Installing Packages
 
 ![alt text](image.png)
+Installing the 2.0.0 package in the image above lead to an error about the client class. Ran `$ pip install paho-mqtt==1.6.1` to get a previous version that worked.
 
 ## Eclipse Mosquitto and Eclipse Paho
 
